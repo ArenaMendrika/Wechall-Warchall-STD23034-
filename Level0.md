@@ -1,14 +1,13 @@
-
  --> LEVEL 0
  
-**SSH Connection:** 
-After entering your SSH username and password, you should access your personal directory, typically represented by "~."
+**SSH Connection:**
+ After entering your SSH username and password, you should access your personal directory, typically represented by "~."
 
 **Initial Exploration:** 
 Use the `ls` command to examine the files and directories present in your personal directory. This command will give you an overview of the elements around you.
 
-**Navigation to the "level" folder:** 
-Since the Warchall teams indicate that the solutions are located in the "/home/level" folder, use the `cd /home/level` command to move to this specific directory.
+**Navigation to the "level" folder:**
+ Since the Warchall teams indicate that the solutions are located in the "/home/level" folder, use the `cd /home/level` command to move to this specific directory.
 
 **Opening the "00_welcome" folder:** 
 In the "level" directory, open the "00_welcome" folder using the command `cd 00_welcome`. This is necessary because we are currently at level 0, and solutions may be organized into specific folders.
