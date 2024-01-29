@@ -3,6 +3,6 @@
  
  - Follow the README.nfo to your personal directory, use `cd ~`  and then `cd /level/04_kwisatz`, inside you should see a file "README.txt".
  
- - README.txt advises navigating to README2.md, currently inaccessible. Check permissions on README2.md using `ls -al`, add read permission with `chmod +r README2.md` 
+ - README.txt advises navigating to README2.md, currently inaccessible. Check permissions on README2.md using `ls -al`, and add read permission with `chmod +r README2.md` 
  -  Open README2.md with `cat README2.md` to access the solution
 
