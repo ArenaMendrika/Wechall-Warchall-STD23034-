@@ -27,7 +27,7 @@ Despite MD5 being considered insecure, it serves our purpose here.
  - Use the following command to connect as level8 without entering a password:
 
 
-   `ssh -i ~/private_key_file level8@warchall.net -p 19198`
+   `ssh -i ~/private_key_file level08@warchall.net -p 19198`
 
 
 
