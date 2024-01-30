@@ -28,9 +28,3 @@ int main(int argc, char *argv[]) {
  -  Use the `cat seed` to read the file. The solution will be revealed.
 
  This approach leverages a fake "cat" command to intercept the solution and demonstrates how manipulating the PATH can influence command execution.
-
- - Execute the tryouts executable in its folder.
-
- -  Use the `cat seed` to read the file. The solution will be revealed.
-
- This approach leverages a fake "cat" command to intercept the solution and demonstrates how manipulating the PATH can influence command execution.
